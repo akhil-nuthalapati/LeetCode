@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1096-brace-expansion-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Timsort
 |  |
 | ------- |
