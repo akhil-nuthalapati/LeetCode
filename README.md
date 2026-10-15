@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0022-generate-parentheses) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0169-majority-element) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0067-add-binary) |
