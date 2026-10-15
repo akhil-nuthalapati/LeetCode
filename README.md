@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0050-powx-n) |
+| [0836-rectangle-overlap](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
 |  |
