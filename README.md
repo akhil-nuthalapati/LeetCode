@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
