@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0835-image-overlap) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0054-spiral-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
