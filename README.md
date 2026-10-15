@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -365,4 +369,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0067-add-binary) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
