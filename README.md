@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
