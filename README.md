@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0704-binary-search) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
