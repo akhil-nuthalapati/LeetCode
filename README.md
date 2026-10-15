@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0835-image-overlap](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
