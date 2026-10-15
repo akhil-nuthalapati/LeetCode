@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0881-boats-to-save-people](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0881-boats-to-save-people) |
