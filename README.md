@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0050-powx-n) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
