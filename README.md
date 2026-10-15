@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
