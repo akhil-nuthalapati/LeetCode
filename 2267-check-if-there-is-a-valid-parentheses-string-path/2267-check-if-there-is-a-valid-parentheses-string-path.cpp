@@ -1,60 +1,11 @@
 class Solution {
 public:
-
-    struct Bitset128 {
-        unsigned long long low = 0;
-        unsigned long long high = 0;
-
-        // Shift all possible balances by +1
-        void increase() {
-            high = (high << 1) | (low >> 63);
-            low <<= 1;
-        }
-
-        // Shift all possible balances by -1
-        void decrease() {
-            low = (low >> 1) | (high << 63);
-            high >>= 1;
-        }
-
-        // Process '(' or ')'
-        void shift(char ch) {
-            if (ch == '(')
-                increase();
-            else
-                decrease();
-        }
-
-        // Union of two sets of balances
-        void merge(const Bitset128& other) {
-            low |= other.low;
-            high |= other.high;
-        }
-
-        // Copy another bitset
-        void copy(const Bitset128& other) {
-            low = other.low;
-            high = other.high;
-        }
-
-        // Is balance 0 reachable?
-        bool hasZeroBalance() const {
-            return low & 1ULL;
-        }
-    };
-
-
     bool hasValidPath(vector<vector<char>>& grid) {
 
         int m = grid.size();
         int n = grid[0].size();
 
-        // --------------------------------
-        // Early checks
-        // --------------------------------
-
-        // Number of characters in every path
-        // must be even.
+        // Path length must be even
         if ((m + n - 1) % 2 != 0)
             return false;
 
@@ -66,58 +17,83 @@ public:
         if (grid[m - 1][n - 1] != ')')
             return false;
 
+        int maxBalance = m + n;
 
-        // --------------------------------
-        // DP
-        // --------------------------------
+        vector<vector<bool>> prev(
+            n,
+            vector<bool>(maxBalance, false)
+        );
 
-        // We only need two rows.
-        vector<Bitset128> prev(n);
-        vector<Bitset128> curr(n);
+        vector<vector<bool>> curr(
+            n,
+            vector<bool>(maxBalance, false)
+        );
 
+        for (int i = 0; i < m; i++) {
 
-        // Starting balance = 0
-        // First character is '('
-        // Therefore balance = 1.
-        curr[0].low = 1ULL;
-        curr[0].increase();
-
-
-        for (int r = 0; r < m; r++) {
-
-            // Reset current row
-            for (int c = 0; c < n; c++) {
-                curr[c] = Bitset128();
+            // Clear current row
+            for (int j = 0; j < n; j++) {
+                fill(curr[j].begin(), curr[j].end(), false);
             }
 
-            for (int c = 0; c < n; c++) {
+            for (int j = 0; j < n; j++) {
 
                 // Starting cell
-                if (r == 0 && c == 0) {
-                    curr[c].low = 1ULL;
-                    curr[c].increase();
+                if (i == 0 && j == 0) {
+                    curr[j][1] = true;
                     continue;
                 }
 
-                // Come from top
-                if (r > 0) {
-                    curr[c].copy(prev[c]);
-                }
+                for (int balance = 0;
+                     balance < maxBalance;
+                     balance++) {
 
-                // Come from left
-                if (c > 0) {
-                    curr[c].merge(curr[c - 1]);
-                }
+                    if (grid[i][j] == '(') {
 
-                // Process current character
-                curr[c].shift(grid[r][c]);
+                        // We need previous balance = balance - 1
+                        if (balance > 0) {
+
+                            // From top
+                            if (i > 0 &&
+                                prev[j][balance - 1]) {
+
+                                curr[j][balance] = true;
+                            }
+
+                            // From left
+                            if (j > 0 &&
+                                curr[j - 1][balance - 1]) {
+
+                                curr[j][balance] = true;
+                            }
+                        }
+
+                    } else {
+
+                        // We need previous balance = balance + 1
+
+                        // From top
+                        if (i > 0 &&
+                            balance + 1 < maxBalance &&
+                            prev[j][balance + 1]) {
+
+                            curr[j][balance] = true;
+                        }
+
+                        // From left
+                        if (j > 0 &&
+                            balance + 1 < maxBalance &&
+                            curr[j - 1][balance + 1]) {
+
+                            curr[j][balance] = true;
+                        }
+                    }
+                }
             }
 
             swap(prev, curr);
         }
 
-
-        // At destination balance must be 0.
-        return prev[n - 1].hasZeroBalance();
+        return prev[n - 1][0];
     }
 };
