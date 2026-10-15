@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3713-longest-balanced-substring-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
