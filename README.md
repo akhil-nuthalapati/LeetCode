@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
