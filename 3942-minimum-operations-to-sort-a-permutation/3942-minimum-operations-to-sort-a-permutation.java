@@ -1,38 +1,33 @@
 class Solution {
-
     public int minOperations(int[] nums) {
-        final int n = nums.length;
-        if (n == 1) {
-            return 0;
-        }
-
-        int start = 0;
-        while (nums[start] != 0) {
-            start++;
-        }
-
-        boolean asc = true;
-        boolean desc = true;
-
-        for (int i = 1; i < n; i++) {
-            final int value = nums[(start + i) % n];
-
-            if (value != i) {
-                asc = false;
-            }
-            if (value != n - i) {
-                desc = false;
-            }
-
-            if (!asc && !desc) {
-                return -1;
+        int n=nums.length;
+        if(n==1)return 0;
+        int dec=-1;
+        for(int i=1;i<n;i++){
+            if(nums[i]!=nums[i-1]+1){
+                if(dec!=-1){
+                    dec=n+1;
+                    break;
+                }
+                dec=i;
             }
         }
-
-        if (asc) {
-            return Math.min(start, n - start + 2);
+        if(dec==-1)return 0;
+        if(dec<n)return Math.min(dec,2+(n-dec));
+        int inc=-1;
+        for(int i=1;i<n;i++){
+            if(nums[i]!=nums[i-1]-1){
+                if(inc!=-1){
+                    inc=n+1;
+                    break;
+                }
+                inc=i;
+            }
         }
-
-        return Math.min(n - start, start + 2);
+        if(inc==-1)return 1;
+        if(inc<n){
+            return Math.min(inc,n-inc)+1;
+        }
+        return -1;
     }
 }
