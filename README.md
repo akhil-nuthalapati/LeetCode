@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -248,12 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -364,11 +368,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akhil-nuthalapati/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -406,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0067-add-binary) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Merge Sort
 |  |
@@ -427,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
