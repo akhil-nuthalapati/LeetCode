@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3719-longest-balanced-subarray-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/akhil-nuthalapati/LeetCode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhil-nuthalapati/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akhil-nuthalapati/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
